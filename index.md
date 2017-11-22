@@ -4,4 +4,4 @@ You can use the [editor on GitHub](https://github.com/aplyer/vision5a/edit/maste
 
 
 
-[simple perceptron]( {{ site.url }}/_pages/perceptron.html )
+[simple perceptron]( {{ site.url }}/vision5a/_pages/perceptron.html )
