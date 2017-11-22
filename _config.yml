@@ -2,22 +2,12 @@
 title:        Vision5A
 tagline:      Computer Vision Lecture
 #logo:         images/
-baseurl:      ""
-paginate:     1
 
 theme: jekyll-theme-hacker
-
 
 # About/contact
 author:
   name:       Aurelien Plyer
 #  url:        TODO
-
-gems:
-  - jekyll-paginate
-
-#Others
-markdown: kramdown
-
 include:
 - _pages
